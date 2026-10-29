@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your ❤️able project
 
 This project was built with [Lovable](https://lovable.dev).
 
@@ -13,10 +13,6 @@ Open your project in the [Lovable editor](https://lovable.dev) and keep building
 ## Development
 
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-
-```
 
 ## Built with
 
